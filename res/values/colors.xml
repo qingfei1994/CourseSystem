@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="has_class">#FFCCFF</color>
+    <color name="no_class">#afeeee</color>
+    <color name="odd_week_has_class">#CCFFCC</color>
+     <color name="even_week_has_class">#d3d3d3</color>
+</resources>
